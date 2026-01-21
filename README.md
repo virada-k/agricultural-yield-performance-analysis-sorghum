@@ -1,20 +1,31 @@
-# 🌾 Project Overview: Sorghum Yield Analysis (2001-2005)
+# 🌾 Project Title & Objective
+**Title:** Sorghum Yield Analysis (2001-2005)
+**Objective**
 This project analyzes the performance of 28 sorghum genotypes across three different locations: Kobo, Melkassa, and Mieso.
 The goal is to identify which seeds provide the highest yields or most stability for farmers.
 
 <br>
 
-## 📢 Main Analysis
-**1. Top 5 High-Yield Genotypes**
+# 📢 Main Analysis
+
+### 1. Top 5 High-Yield Genotypes
+
+<br>
+
 ![Top 5 High-Yield Genotypes](1-top-5-genotypes-by-average-yield.png)
 
+<br>
 
+**Summary**
+This chart identifies the top five varieties with the highest average yield. These findings provide a data-driven basis for recommending the most productive varieties for large-scale farming.
+
+<br>
 
 
 
 <br>
 
-## 🔑 Key Findings:
+# 🔑 Key Findings:
 - Best Location: Kobo is the most productive area for sorghum cultivation.
 - The Turning Point: In 2003, we saw a massive "jump" in yields due to the introduction of new genotypes (G01–G15).
 - The Champion Battle: G01 is the leader for High Yield but has high risk. Meanwhile, G11 is the best for Stability, making it the safest choice, especially for the Mieso location.
