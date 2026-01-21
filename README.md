@@ -55,7 +55,7 @@ This chart identifies the five varieties with the lowest average yield. These re
 <br>
 - **Most Reliable:** G11 is the most stable genotype. It has the shortest overall range (whiskers) and the lowest SD (661), meaning the yield is highly consistent.
 - **High Potential with Risk:** G01 and G03 have the highest average yields. They have high outliers (nearly 8,000 kg/ha), showing great potential, but they have more variation than G11.
-- **Low Consistency:** G04 and G06 show high variance. Their avg_med_diff is very high (up to 632), and their boxes are the largest, which means their yield is unpredictable.
+- **Low Consistency:** G04 and G06 show high variance. Their average deviation from the median is very high (up to 632), and their boxes are the largest, which means their yield is unpredictable.
 - **Business Recommendation:** We should recommend G11 for farmers who want steady income, and G01 for those who want to reach the highest possible yield.
 
 <br>
