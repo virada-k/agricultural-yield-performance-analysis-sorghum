@@ -8,9 +8,12 @@ The goal is to identify which seeds provide the highest yields or most stability
 
 # 📢 Main Analysis
 <br>
+
 ### 1. Top 5 High-Yield Genotypes
+
 <br>
 ![Top 5 High-Yield Genotypes](1-top-5-genotypes-by-average-yield.png)
+
 <br>
 **Summary**
 <br>
