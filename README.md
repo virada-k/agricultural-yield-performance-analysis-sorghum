@@ -1,5 +1,16 @@
 # 🌾 Project Overview: Sorghum Yield Analysis (2001-2005)
-This project analyzes the performance of 28 sorghum genotypes across three different locations: Kobo, Melkassa, and Mieso. The goal is to identify which seeds provide the highest yields or most stability for farmers.
+This project analyzes the performance of 28 sorghum genotypes across three different locations: Kobo, Melkassa, and Mieso.
+The goal is to identify which seeds provide the highest yields or most stability for farmers.
+
+<br>
+
+## 📢 Main Analysis
+**1. Top 5 High-Yield Genotypes**
+![Top 5 High-Yield Genotypes](1-top-5-genotypes-by-average-yield.png)
+
+
+
+
 
 <br>
 
