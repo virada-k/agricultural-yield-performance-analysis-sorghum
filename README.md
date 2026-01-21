@@ -2,7 +2,6 @@
 <br>
 
 **Title:** Sorghum Yield Analysis (2001-2005)
-
 <br>
 
 **Objective**
