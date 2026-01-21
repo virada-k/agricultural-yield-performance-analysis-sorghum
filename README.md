@@ -49,6 +49,7 @@ This chart identifies the five varieties with the lowest average yield. These re
 <img width="1440" height="346" alt="image" src="https://github.com/user-attachments/assets/47bff5a5-083e-4305-85e2-3ca1f46f5ccc" />
 
 <br>
+<br>
 
 **📝 Summary**
 <br>
