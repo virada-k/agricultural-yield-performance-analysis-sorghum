@@ -7,15 +7,11 @@ The goal is to identify which seeds provide the highest yields or most stability
 <br>
 
 # 📢 Main Analysis
-
+<br>
 ### 1. Top 5 High-Yield Genotypes
-
 <br>
-
 ![Top 5 High-Yield Genotypes](1-top-5-genotypes-by-average-yield.png)
-
 <br>
-
 **Summary**
 <br>
 This chart identifies the top five varieties with the highest average yield. These findings provide a data-driven basis for recommending the most productive varieties for large-scale farming.
