@@ -1,5 +1,12 @@
-# agridat-yield-visualization
-Agricultural data visualization using R programming to analyze crop yields.
+# 🌾 Project Overview: Sorghum Yield Analysis (2001-2005)
+This project analyzes the performance of 28 sorghum genotypes across three different locations: Kobo, Melkassa, and Mieso. The goal is to identify which seeds provide the highest yields or most stability for farmers.
+
+<br>
+
+## 🔑 Key Findings:
+- Best Location: Kobo is the most productive area for sorghum cultivation.
+- The Turning Point: In 2003, we saw a massive "jump" in yields due to the introduction of new genotypes (G01–G15).
+- The Champion Battle: G01 is the leader for High Yield but has high risk. Meanwhile, G11 is the best for Stability, making it the safest choice, especially for the Mieso location.
 
 
 ใน sorghum จะไม่มี folder มีแค่ไฟล์เท่านั้น ซึ่งมี README 1 file, Rmd 1 file and images 5 files as below.
