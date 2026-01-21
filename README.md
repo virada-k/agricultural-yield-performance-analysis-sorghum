@@ -22,7 +22,17 @@ This chart identifies the top five varieties with the highest average yield. The
 
 <br>
 
+### 2. Bottom 5 Low-Yield Genotypes
 
+<br>
+
+![Bottom 5 Low-Yield Genotypes](2-bottom-5-genotypes-by-average-yield.png)
+
+<br>
+
+**Summary**
+<br>
+This chart identifies the five varieties with the lowest average yield. These results help decision-makers consider excluding them from future planting plans to reduce farming costs.
 
 <br>
 
