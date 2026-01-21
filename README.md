@@ -5,6 +5,7 @@
 <br>
 **Objective**
 This project analyzes the performance of 28 sorghum genotypes across three different locations: Kobo, Melkassa, and Mieso.
+
 The goal is to identify which seeds provide the highest yields or most stability for farmers.
 
 You can find the full Analysis report (PDF) [sorghum_yield_analysis_report](sorghum_yield_analysis_report.pdf).
