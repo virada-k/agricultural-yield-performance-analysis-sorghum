@@ -1,4 +1,4 @@
-# 🌾 Project Title & Objective
+# 🌾 Exploratory Data Analysis (EDA)
 <br>
 
 **Title:** Sorghum Yield Analysis (2001-2005)
@@ -107,3 +107,9 @@ This chart identifies the five varieties with the lowest average yield. These re
 - **Best Location:** Kobo is the most productive area for sorghum cultivation.
 - **The Turning Point:** In 2003, we saw a massive "jump" in yields due to the introduction of new genotypes (G01–G15).
 - **The Champion Battle:** G01 is the leader for High Yield but has high risk. Meanwhile, G11 is the best for Stability, making it the safest choice, especially for the Mieso location.
+
+<br>
+
+# 📢 Data Source
+The dataset used in this project is from the adugna.sorghum dataset in the agridat package in R.
+Note: Asfaw Adugna (2008) conducted researched this dataset.
