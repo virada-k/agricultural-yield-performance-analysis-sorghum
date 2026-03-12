@@ -85,7 +85,7 @@ This chart identifies the five varieties with the lowest average yield. These re
 
 <br>
 
-### 5. Genotype Comparison
+### 5. Genotype Comparison between High-Yield (G01) and High-Stability (G11)
 
 <br>
 
