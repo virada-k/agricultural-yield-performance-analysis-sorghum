@@ -1,10 +1,10 @@
 # 🌾 Exploratory Data Analysis (EDA) & Yield Performance Analysis
 <br>
 
-**Title:** Sorghum Yield Analysis (2001-2005)
+**Project Title:** Sorghum Yield Analysis (2001-2005)
 <br>
 
-**Objective**
+**Objective:**
 - This project analyzes the performance of 28 sorghum genotypes across three different locations: Kobo, Melkassa, and Mieso.
 - The goal is to identify which seeds provide the highest yields or most stability for farmers.
 
@@ -43,7 +43,7 @@ This chart identifies the five varieties with the lowest average yield. These re
 
 <br>
 
-### 3. Yield Stability
+### 3. Yield Stability Analysis
 
 <br>
 
@@ -68,7 +68,7 @@ This chart identifies the five varieties with the lowest average yield. These re
 
 <br>
 
-### 4. Yearly Yield Trends by Location
+### 4. Annual Yield Trends by Location
 
 <br>
 
