@@ -1,7 +1,6 @@
 # 🌾 Exploratory Data Analysis (EDA) & Yield Performance Analysis
-<br>
+Sorghum Yield Analysis (2001-2005)
 
-**Project Title:** Sorghum Yield Analysis (2001-2005)
 <br>
 
 **Objective:**
